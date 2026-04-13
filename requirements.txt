@@ -1,0 +1,11 @@
+numpy
+matplotlib
+h5py
+opencv-python
+tqdm
+scikit-learn
+torch
+torchvision
+ipywidgets
+medpy
+torchinfo
